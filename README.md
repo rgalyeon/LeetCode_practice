@@ -20,6 +20,7 @@ LeetCode solutions
 ### [DFS/BFS](/Problems/dfs-bfs)
 
 * [107. Binary Tree Level Order Traversal II](/Problems/dfs-bfs/107_Binary_Tree_Level_Order_Traversal_II.md)
+* [116. Populating Next Right Pointers in Each Node](/Problems/dfs-bfs/116_Populating_Next_Right_Pointers_in_Each_Node.md)
 * [226. Invert Binary Tree](/Problems/dfs-bfs/226_Invert_Binary_Tree.md)
 * [332. Reconstruct Itinerary](/Problems/dfs-bfs/332_Reconstruct_Itinerary.md)
 * [1254. Number of Closed Islands](/Problems/dfs-bfs/1254_Number_of_Closed_Islands.md)
