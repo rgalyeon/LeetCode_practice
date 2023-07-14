@@ -25,6 +25,7 @@ LeetCode solutions
 * [332. Reconstruct Itinerary](/Problems/dfs-bfs/332_Reconstruct_Itinerary.md)
 * [1254. Number of Closed Islands](/Problems/dfs-bfs/1254_Number_of_Closed_Islands.md)
 * [1315. Sum of Nodes with Even-Valued Grandparent](/Problems/dfs-bfs/1315_Sum_of_Nodes_with_Even-Valued_Grandparent.md)
+* [802. Find Eventual Safe States](/Problems/dfs-bfs/802_Find_Eventual_Safe_States.md)
 
 
 ### [Two Pointers](/Problems/Two_Pointers/)
